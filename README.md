@@ -18,4 +18,4 @@ Since the idea is to precisely have 'easy and simple' examples, they will be no 
 
 | Deep Network type 	| Name 	| Database 	| comment 	|
 |:-:	|:-:	|:-:	|-	|
-| [RNN] 	| [numPassengerPrediction](/[RNN]\ -\ numPassengerPrediction/) 	| `flights` from seaborn library 	|  	|
+| [RNN] 	| [numPassengerPrediction](/[RNN]\ -\ numPassengerPrediction) 	| `flights` from seaborn library 	|  	|
