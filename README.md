@@ -1,12 +1,5 @@
 # Project Title
 
-## Table of Contents
-
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
-
 ## About <a name = "about"></a>
 
 In this repository I just want to collect simple and easy deep learning excersices.
@@ -16,6 +9,6 @@ Since the idea is to precisely have 'easy and simple' examples, they will be no 
 
 ## Index
 
-| Deep Network type 	| Name 	| Database 	| comment 	|
+| Deep Network type 	| Name 	| Database 	| Need GPU? 	|
 |:-:	|:-:	|:-:	|-	|
-| [RNN] 	| [numPassengerPrediction](https://github.com/armhzjz/Deep_Excercises/tree/master/%5BRNN%5D%20-%20numPassengerPrediction) 	| `flights` from seaborn library 	|  	|
+| [RNN] 	| [numPassengerPrediction](https://github.com/armhzjz/Deep_Excercises/tree/master/%5BRNN%5D%20-%20numPassengerPrediction) 	| `flights` from seaborn library 	| No 	|
