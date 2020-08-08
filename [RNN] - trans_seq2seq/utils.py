@@ -118,7 +118,7 @@ def timeSince(since, percent):
     return '%s (-%s)' % (asMinutes(s), asMinutes(rs))
 
 
-def evaluate(encoder, decoder, sentence, input_lang, output_lang, max_length=MAX_LENGTH, device="cpu", attention=False):
+def evaluate(encoder, decoder, sentence, input_lang, output_lang, max_length=MAX_LENGTH, device='cpu', attention=False):
     with torch.no_grad():
         input_tensor = tensorFromSentence(input_lang, sentence, device)
         input_length = input_tensor.size()[0]
