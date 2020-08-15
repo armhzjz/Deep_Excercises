@@ -11,4 +11,4 @@ Since the idea is to precisely have 'easy and simple' examples, they will be no 
 
 | Deep Network type 	| Name 	| Database 	| Need GPU? 	|
 |:-:	|:-:	|:-:	|-	|
-| [RNN] 	| [numPassengerPrediction](https://github.com/armhzjz/Deep_Excercises/tree/master/%5BRNN%5D%20-%20numPassengerPrediction) 	| `flights` from seaborn library 	| No 	|
+| [RNN] 	| [numPassengerPrediction](%5BRNN%5D%20-%20numPassengerPrediction) 	| `flights` from seaborn library 	| No 	|
