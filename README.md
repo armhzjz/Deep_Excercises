@@ -12,4 +12,4 @@ Since the idea is to precisely have 'easy and simple' examples, they will be no 
 | Deep Network type 	| Name 	| Database 	| Need GPU? 	|
 |:-:	|:-:	|:-:	|-	|
 | [RNN] 	| [numPassengerPrediction](%5BRNN%5D%20-%20numPassengerPrediction) 	| `flights` from seaborn library 	| No 	|
-| [RNN] 	| [numPassengerPrediction](%5BRNN%5D%20-%20trans_seq2seq) 	| [English-French pair of sentences](https://download.pytorch.org/tutorial/data.zip)  	| Yes 	|
+| [RNN] 	| [trans_seq2seq](%5BRNN%5D%20-%20trans_seq2seq) 	| [English-French pair of sentences](https://download.pytorch.org/tutorial/data.zip)  	| Yes 	|
