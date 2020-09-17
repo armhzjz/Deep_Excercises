@@ -1,0 +1,8 @@
+https://dumps.wikimedia.org/dewiki/latest/
+https://dumps.wikimedia.org/dewiki/latest/dewiki-latest-pages-articles.xml.bz2
+
+https://www.kdnuggets.com/2017/11/building-wikipedia-text-corpus-nlp.html
+
+
+## no lo uso ##
+https://stackoverflow.com/questions/50697092/how-to-get-the-wikipedia-corpus-text-with-punctuation-by-using-gensim-wikicorpus
